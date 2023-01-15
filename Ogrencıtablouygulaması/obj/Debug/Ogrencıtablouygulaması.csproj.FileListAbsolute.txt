@@ -1,0 +1,19 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Finalornek1\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Finalornek1\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Finalornek1\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.Form1.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Finalornek1\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.Properties.Resources.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Finalornek1\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Finalornek1\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.Form1.resources
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.Properties.Resources.resources
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\bin\Debug\Ogrenci.mdf
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\bin\Debug\Ogrenci_log.ldf
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\bin\Debug\Ogrencıtablouygulaması.exe.config
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\bin\Debug\Ogrencıtablouygulaması.exe
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\bin\Debug\Ogrencıtablouygulaması.pdb
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.exe
+C:\Users\SelimCinar\Desktop\Ogrencıtablouygulaması\obj\Debug\Ogrencıtablouygulaması.pdb
